@@ -10,6 +10,7 @@ body {
   margin: auto auto;
   padding: 10px;
   background-color: #fff;
+  overflow: auto;
 }
 
 h1 {
