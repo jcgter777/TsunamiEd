@@ -27,5 +27,6 @@ h5 {
 }
 
 p {
+  margin-left: 50px; 
   font-size: 120%;
 }
