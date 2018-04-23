@@ -6,8 +6,9 @@
 body {
   width: 90%;
   background-color: black;
-  background-image: url(https://github.com/jcgter777/TsunamiEd/blob/master/images/TsunamiWallapaper.png?raw=true);
+  background-image: url(https://wallpapercave.com/wp/qx0bNm2.jpg);
   background-repeat: no-repeat;
+  background-image-opacity: 0.4;
   background-attachment: fixed;
   background-position: center;
   margin: auto auto;
